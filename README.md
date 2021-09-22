@@ -2,7 +2,7 @@
 
 * Here is the [PDF version of the slides](./Slides/MongoDB-Slide-Deck.pdf) and the [slide deck presentation on Google](https://docs.google.com/presentation/d/194re6kxDcqaOAHMuKarTOMshiwjR-OOTtNbVbmLt2NM/edit?usp=sharing)
 
-* The five minute activity is in the [Activity](./Activity/explainer) folder.
+* The five minute activity is in the [Activity](./Activity/explainer.md) folder.
 
     * The activity has the learner use what they learned from the presentation in conjuction with the MongoDB documentation.
 
