@@ -4,13 +4,15 @@
 
 Take time to add comments describing the functionality of the code found in the [query.sh](./Unsolved/query.sh) file.
 
-## 🚀 Launch
+**Important**: This activity uses the sample dataset that is available on [Atlas](https://docs.atlas.mongodb.com/sample-data/).
+
+## 🚀 Launch The Demo
 
 To launch the application, follow these steps:
 
 1. In the command line, run `mongo "mongodb+srv://<your username>:<your password>@<your cluster>.uzpoq.mongodb.net/admin" --username <your username>`.
 
-2. Once connected, type `use sample_restaurants`.
+2. Once connected, type `use sample_restaurants` into the command line.
 
 3. Once connected to the `sample_restaurants` database copy and paste the query into the command line.
 

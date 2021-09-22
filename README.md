@@ -1,6 +1,6 @@
 # Parker Faucher's Take Home Assignment
 
-* Here is the [slide deck presentation](https://docs.google.com/presentation/d/194re6kxDcqaOAHMuKarTOMshiwjR-OOTtNbVbmLt2NM/edit?usp=sharing)
+* Here is the [PDF version of the slides](./Slides/MongoDB-Slide-Deck.pdf) and the [slide deck presentation on Google](https://docs.google.com/presentation/d/194re6kxDcqaOAHMuKarTOMshiwjR-OOTtNbVbmLt2NM/edit?usp=sharing)
 
 * The five minute activity is in the [Activity](./Activity/explainer) folder.
 
