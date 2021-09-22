@@ -6,14 +6,14 @@ db.restaurants.aggregate([
             'path': '$grades'
         }
     }, 
-    # TODO: Explain is happening below:
+    # TODO: Explain what is happening below:
     {
         '$match': {
             'borough': 'Brooklyn', 
             'cuisine': 'American'
         }
     }, 
-    # TODO: Explain is happening below:
+    # TODO: Explain what is happening below:
     {
         '$group': {
             '_id': '$name', 
@@ -22,7 +22,7 @@ db.restaurants.aggregate([
             }
         }
     }, 
-    # TODO: Explain is happening below:
+    # TODO: Explain what is happening below:
     {
         '$match': {
             'avgScore': {

@@ -12,4 +12,4 @@
 
 # Scope of Learners Knowledge
 
-  This activity and presentation is meant for a learner that is familiar with the basics MQL but has experience with relational databases. The activity is not exclusive to any programming language. The learner should have some full-stack experience in their history, but it is not mandatory.
+  This activity and presentation is meant for a learner that is familiar with the basics of MQL but has experience with relational databases. The activity is not exclusive to any programming language. The learner should have some full-stack experience in their history, but it is not mandatory.
